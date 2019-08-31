@@ -1,0 +1,5 @@
+/* 隐藏菜单下方标示 */
+.divider, .gitbook-link {
+    display: none !important;
+}
+

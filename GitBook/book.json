@@ -1,0 +1,33 @@
+{
+  "author": "Kail",
+  "styles": {
+    "website": "styles/website.css"
+  },
+  "structure": {
+    "summary": "_sidebar.md"
+  },
+  "plugins": [
+    "-sharing",
+    "-lunr",
+    "-search",
+    "search-plus",
+    "github",
+    "splitter",
+    "simple-page-toc",
+    "anchors",
+    "edit-link",
+    "copy-code-button"
+  ],
+  "pluginsConfig": {
+    "github": {
+      "url": "https://github.com/hello-world-example/Template-GitBook"
+    },
+    "simple-page-toc": {
+      "maxDepth": 3
+    },
+    "edit-link": {
+      "base": "https://github.com/hello-world-example/Template-GitBook/edit/master",
+      "label": "Edit✏️"
+    }
+  }
+}
