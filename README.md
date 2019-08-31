@@ -9,8 +9,8 @@ git config user.email ykb553@163.com
 git config -l | grep user
 ```
 
-> gitbook install ./GitBook
-> gitbook build ./GitBook ./docs
-> gitbook serve ./GitBook ./docs
+> gitbook install ./GitBook  
+> gitbook build ./GitBook ./docs  
+> gitbook serve ./GitBook ./docs  
 
 
